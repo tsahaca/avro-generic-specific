@@ -1,0 +1,16 @@
+= AVRO Generic Specific Reader & Writer Demo Application
+
+== Introduction
+[NOTE]
+====
+This is a demo project for AVRO Generic Specific Reader & Writer Demo Application
+====
+
+== Project Setup
+====
+. Clone the repo
+. mvn clean package
+.
+====
+
+

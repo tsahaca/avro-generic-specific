@@ -1,0 +1,11 @@
+{
+     "type": "record",
+     "namespace": "org.example",
+     "name": "User",
+     "doc": "Avro Schema for User",
+     "fields": [
+       { "name": "user_name", "type": "string", "doc": "Name of the User" },
+       { "name": "password", "type": "string", "doc": "Password of the User" },
+       { "name": "is_root", "type": "boolean", "default": false, "doc": "Field indicating if the user has root access level" }
+     ]
+}
